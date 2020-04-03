@@ -100,29 +100,29 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "STANDARD",
+          "title1": "Basico",
           "currency1": "R$",
           "price1": "0,00",
-          "period1": "per month",
+          "period1": "Por mês",
           "list1": "<b>&nbsp; &nbsp; HD disponível Não</b><ul><li></li></ul><div><b>------------------------------Ultra HD disponível &nbsp; &nbsp; &nbsp; Não\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp; Telas simultâneas 0</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp; &nbsp;Assista no notebook, TV, smartphone ou &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;tablet\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp; &nbsp; Filmes e séries ilimitados\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp; &nbsp; Cancele quando quiser</b></div>",
           "button1": "<a data-app-btn=\"true\" href=\"pagamento.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Carrinho</a>",
-          "title2": "BUSINESS",
-          "currency2": "$",
+          "title2": "Medio",
+          "currency2": "R$",
           "price2": "4,99",
-          "period2": "per month",
+          "period2": "Por mês",
           "list2": "<b>&nbsp; &nbsp;HD disponível Sim\n</b><ul><li></li></ul><div><b>------------------------------Ultra HD disponível &nbsp; &nbsp; &nbsp;Sim\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Telas simultâneas 1</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Assista no notebook, TV, smartphone ou &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;tablet\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Filmes e séries ilimitados\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Filmes e séries Ultra Wide\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; Conteúdo Infantíl &amp; Educativo\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; Cancele quando quiser\n</b></div><div><b>\n</b></div><div><b><br></b></div>",
           "button2": "<a data-app-btn=\"true\" href=\"pagamento.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Carrinho</a>",
           "title3": "PREMIUM",
-          "currency3": "$",
+          "currency3": "R$",
           "price3": "9,99",
-          "period3": "per month",
+          "period3": "Por mês",
           "list3": "<b>&nbsp; &nbsp;HD disponível Sim\n</b><ul><li></li></ul><div><b>------------------------------Ultra HD disponível &nbsp; &nbsp; Sim\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Telas simultâneas 4</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Assista no notebook, TV, smartphone ou &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;tablet\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Filmes e séries ilimitados\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Filmes e séries Ultra Wide\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Conteúdo Infantíl &amp; Educativo\n</b></div><div><b>------------------------------\n</b></div><div><b>&nbsp; &nbsp;Cancele quando quiser\n</b></div><div><b>\n</b></div><div><b><br></b></div>",
           "button3": "<a data-app-btn=\"true\" href=\"pagamento.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Carrinho</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "19,99",
-          "period4": "per month",
-          "list4": "&nbsp; &nbsp;HD disponível Sim\n<div>------------------------------Ultra HD disponível     Sim\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Telas simultâneas 4\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Assista no notebook, TV, smartphone ou            tablet\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Filmes e séries ilimitados\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Filmes e séries Ultra Wide\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Conteúdo Infantíl &amp; Educativo\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Sugerir filmes instantaneos\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Conteudo adulto incluido\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Bloqueia conteudo adulto\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp; +7 Ou mais pessoas logado\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Cancele quando quiser</div><div><br></div>",
+          "period4": "Por mês",
+          "list4": "&nbsp; &nbsp;HD disponível Sim\n<div>------------------------------</div><div>&nbsp; &nbsp;Ultra HD disponível     Sim\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Telas simultâneas 4\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Assista no notebook, TV, smartphone ou            tablet\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Filmes e séries ilimitados\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Filmes e séries Ultra Wide\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Conteúdo Infantíl &amp; Educativo\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Sugerir filmes instantaneos\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Conteudo adulto incluido\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Bloqueia conteudo adulto\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp; +7 Ou mais pessoas logado\n</div><div>------------------------------\n</div><div>&nbsp; &nbsp;Cancele quando quiser</div><div><br></div>",
           "button4": "<a data-app-btn=\"true\" href=\"pagamento.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Carrinho</a>",
           "title5": "EXTENDED",
           "currency5": "$",
@@ -340,7 +340,7 @@
           "form": {
             "action": "twyzerh@gmail.com",
             "alerts": {
-              "success": "Compra realizar com sucesso, olhe seu email."
+              "success": "Compra realizar com sucesso, verifique seu email."
             },
             "fields": {
               "name": {
